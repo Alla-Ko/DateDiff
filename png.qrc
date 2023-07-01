@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pr1">
+        <file>png/6180029.png</file>
+    </qresource>
+</RCC>
